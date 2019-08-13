@@ -1,2 +1,2 @@
-# Dev Branch commit 2
+This is commit on Master
 #Learning git again
